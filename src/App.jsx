@@ -1,4 +1,4 @@
-import profile from './data/profile.json';
+import profile from './data/6.jpg';
 import Avatar from './components/Avatar.jsx';
 import DetailList from './components/DetailList.jsx';
 import ProfileLinks from './components/ProfileLinks.jsx';

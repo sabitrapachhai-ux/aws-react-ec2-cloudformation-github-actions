@@ -1,20 +1,20 @@
 {
   "name": "Sabitra",
-  "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
-  "roll": "4447",
-  "department": "Computer Engineering",
+  "tagline": "Mehendi Artist and passionate Learner ",
+  "photo": "6.jpg",
+  "roll": "4447",gi
+  "department": "IT",
   "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
+  "email": "spachhai19@gmail.com",
   "gpa": "4.00",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/sabitrapachhai-ux",
+    "linkedin": "https://www.linkedin.com/in/sabitra-pachhai/"
   },
   "quotes": [
-    "Stay hungry, stay foolish.",
+    "Hi there! I'm Sabitra, a passionate DevOps and Cloud Engineer in the making. I thrive on automating processes, optimizing workflows, and leveraging cloud technologies to build scalable solutions. With a strong foundation in Linux, Git, Docker, and AWS, I am constantly exploring new tools and techniques to enhance my skills and contribute to innovative projects.",
     "Success doesn't come to you, you go to it.",
     "Small progress every day leads to big results.",
     "Don't watch the clock; do what it does. Keep going.",
